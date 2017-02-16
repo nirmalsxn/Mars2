@@ -1,0 +1,33 @@
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:47:52,415 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:47:52,878 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:47:52,894 com.hrm.base.BaseTest.initApplication(BaseTest.java:79) Opening Browser:firefox 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:48:13,345 com.hrm.base.BaseTest.preCondition(BaseTest.java:105) login required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:48:36,313 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) logout required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:48:36,335 com.hrm.base.BaseTest.closeApplication(BaseTest.java:93) Closing Browser 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:48:37,522 com.hrm.base.BaseTest.publishReport(BaseTest.java:62) publishing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:49:33,402 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:49:33,761 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:49:33,794 com.hrm.base.BaseTest.initApplication(BaseTest.java:79) Opening Browser:firefox 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:49:54,816 com.hrm.base.BaseTest.preCondition(BaseTest.java:105) login required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:50:17,461 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) logout required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:50:17,478 com.hrm.base.BaseTest.closeApplication(BaseTest.java:93) Closing Browser 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:50:18,466 com.hrm.base.BaseTest.publishReport(BaseTest.java:62) publishing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:18,880 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:19,166 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:19,195 com.hrm.base.BaseTest.initApplication(BaseTest.java:79) Opening Browser:firefox 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:39,798 com.hrm.base.BaseTest.preCondition(BaseTest.java:105) login required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:40,579 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) logout required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:40,588 com.hrm.base.BaseTest.closeApplication(BaseTest.java:93) Closing Browser 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:51:41,336 com.hrm.base.BaseTest.publishReport(BaseTest.java:62) publishing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:52:37,276 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:53:35,553 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:53:35,906 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:53:35,946 com.hrm.base.BaseTest.initApplication(BaseTest.java:79) Opening Browser:firefox 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:53:55,147 com.hrm.base.BaseTest.preCondition(BaseTest.java:105) login required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:54:17,141 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) logout required 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:54:17,161 com.hrm.base.BaseTest.closeApplication(BaseTest.java:93) Closing Browser 
+com.hrm.scripts.VerifyLoginLogout 2017-02-05 00:54:18,017 com.hrm.base.BaseTest.publishReport(BaseTest.java:62) publishing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-11 16:26:28,563 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyLoginLogout 2017-02-11 16:26:28,975 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 
+com.hrm.scripts.VerifyAutoLoginLogout 2017-02-11 16:31:33,813 com.hrm.base.BaseTest.initReport(BaseTest.java:53) initializing ExtentReport 
+com.hrm.scripts.VerifyAutoLoginLogout 2017-02-11 16:31:34,151 com.hrm.base.BaseTest.initGlobalVar(BaseTest.java:68) initialize Global variables 

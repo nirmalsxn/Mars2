@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="182" started-at="2017-02-11T11:01:34Z" finished-at="2017-02-11T11:01:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="182" started-at="2017-02-11T11:01:34Z" finished-at="2017-02-11T11:01:34Z">
+      <class name="com.hrm.scripts.VerifyAutoLoginLogout">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="initReport" is-config="true" duration-ms="348" started-at="2017-02-11T16:31:33Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="initGlobalVar" is-config="true" duration-ms="17" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlobalVar -->
+        <test-method status="FAIL" signature="initApplication(java.lang.String)[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="initApplication" is-config="true" duration-ms="0" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeClass on method initApplication but has not been marked @Optional or defined
+in C:\Users\nirmalsxn\AppData\Local\Temp\testng-eclipse-1217658315\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method initApplication but has not been marked @Optional or defined
+in C:\Users\nirmalsxn\AppData\Local\Temp\testng-eclipse-1217658315\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:203)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:169)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="SKIP" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="preCondition" is-config="true" duration-ms="0" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="SKIP" signature="testAutoLoginLogout()[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="testAutoLoginLogout" duration-ms="10" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeClass on method initApplication but has not been marked @Optional or defined
+in C:\Users\nirmalsxn\AppData\Local\Temp\testng-eclipse-1217658315\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeClass on method initApplication but has not been marked @Optional or defined
+in C:\Users\nirmalsxn\AppData\Local\Temp\testng-eclipse-1217658315\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:199)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:443)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:203)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:169)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutoLoginLogout -->
+        <test-method status="SKIP" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="postCondition" is-config="true" duration-ms="0" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="SKIP" signature="closeApplication()[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="closeApplication" is-config="true" duration-ms="0" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="SKIP" signature="publishReport()[pri:0, instance:com.hrm.scripts.VerifyAutoLoginLogout@cb644e]" name="publishReport" is-config="true" duration-ms="0" started-at="2017-02-11T16:31:34Z" finished-at="2017-02-11T16:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- publishReport -->
+      </class> <!-- com.hrm.scripts.VerifyAutoLoginLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
